@@ -33,7 +33,7 @@ I'm Sadhin a ***Webflow*** developer. I build responsive websites using Webflow,
 
 ### Links:<br>
  🔗 [Upwork](https://www.upwork.com/freelancers/~01662183e029e40c94) <br>
- 🔗 [Linkedin](https://www.linkedin.com/in/sadhin/) <br>
+ 🔗 [Linkedin](https://www.linkedin.com/in/sadhinvr/) <br>
  🔗 [Facebook](https://www.facebook.com/sadhinvr/) <br>
  🔗 [instagram](https://www.instagram.com/sadhinvr/) <br>
  🔗 [Stack-overflow](https://stackoverflow.com/users/15238330/sadhin) <br>
