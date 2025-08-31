@@ -1,61 +1,54 @@
-<!-- [![Sadhin](https://github-readme-stats.vercel.app/api?username=sadhinvr&show_icons=true)](https://github.com/sadhinvr/) -->
+# 👋 Hello, I’m Shahadat Sadhin  
+<p align="center"><em>Webflow • MERN Stack • UI Engineer</em></p>  
 
-
-
-
-
-
-# Shahadat Sadhin
-
- *Webflow & MERN-Stack Developer*
-
-Passionate about crafting exceptional digital experiences and solving complex challenges through innovative web development solutions.
-
-### Skills:
-
-Proficient in vanilla JavaScript, utilizing Babel and Webpack to optimize code and build cutting-edge tools.
-Experienced in developing responsive websites using a variety of platforms, including Webflow, Wordpress-elementor, and custom-coded solutions with HTML, JS, and CSS.
-Skilled in frontend frameworks such as React, ensuring dynamic and interactive user interfaces.
-Capable of building robust backend systems with Node.js for server-side rendering and API-based applications.
-
- - ✅ Javascript, React
- - ✅ Html, Css, Scss, bootstrap, Tailwind
- - ✅ Node.js, express, mongodb
- - ✅ Figma, Photoshop
- - ✅ Webflow, animation, CMS
- - ✅ Wordpress, elementor
- - ✅ XD, illustrator
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhinvr&layout=compact&langs_count=10)](https://github.com/sadhinvr/)
+👨‍💻 A Webflow and MERN-stack developer from Bangladesh, passionate about crafting user-centric web experiences.  
 
 ---
 
-### Experience:
+## 🚀 About Me  
+Based in Bangladesh, I love turning ideas into reality with code.  
+- Specialize in full-stack JavaScript (React/Next.js, Node.js) and Webflow  
+- Obsessed with clean, efficient solutions and creative UI  
+- Constant learner: Tailwind, Figma, and open-source contributions  
 
-Developed a diverse range of projects spanning from static websites to complex web applications, demonstrating adaptability across various technologies and platforms.
-Leveraged expertise in both frontend and backend development to create seamless user experiences and efficient server-side functionalities.
-Collaborated with multidisciplinary teams to deliver high-quality products tailored to client needs and specifications.
+---
 
-### 📂 Works:
+## 🛠️ Skills & Tech Stack  
+<p align="center">  
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />  
+<img alt="React" src="https://img.shields.io/badge/React-323330?style=flat-square&logo=react&logoColor=61DAFB" />  
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />  
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-323330?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />  
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-323330?style=flat-square&logo=node.js&logoColor=339933" />  
+<img alt="Webflow" src="https://img.shields.io/badge/Webflow-323330?style=flat-square&logo=webflow&logoColor=FFFFFF" />  
+<img alt="Figma" src="https://img.shields.io/badge/Figma-323330?style=flat-square&logo=figma&logoColor=F24E1E" />  
+</p>  
 
-   - https://www.togethercfo.com
-   - https://www.designwithemran.com/
-   - https://github.com/sadhinvr/web-builder/
-   - https://github.com/sadhinvr/slider
+---
 
-### Education:
+## 📌 Projects  
+- [**TogetherCFO**](https://www.togethercfo.com) – CFO services website (WordPress/Webflow).  
+- [**Design With Emran**](https://www.designwithemran.com) – Personal portfolio site (Webflow).  
+- [**slider**](https://github.com/sadhinvr/slider) – Infinite JavaScript image slider component.  
+- [**web-builder**](https://github.com/sadhinvr/web-builder) – Drag-and-drop web page builder (like Webflow).  
 
-- (4 Year)Diploma in computer science 2021-2025
-- Secondary School Certificate - GPA 5/5
-- Junior School Certificate - GPA 5/5
+---
 
-### Contact:
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://streak-stats.demolab.com?user=sadhinvr&theme=dark" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=sadhinvr&show_icons=true&theme=dark" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhinvr&layout=compact&theme=dark" alt="Top Languages" />  
+</p>  
 
- 🔗 [Upwork](https://www.upwork.com/freelancers/~01662183e029e40c94) <br>
- 🔗 [Linkedin](https://www.linkedin.com/in/sadhinvr/) <br>
- 🔗 [Facebook](https://www.facebook.com/sadhinvr/) <br>
- 🔗 [instagram](https://www.instagram.com/sadhinvr/) <br>
- 🔗 [Stack-overflow](https://stackoverflow.com/users/15238330/sadhin) <br>
+---
 
+## 📫 Contact  
+<p align="center">  
+  <a href="https://www.linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.upwork.com/freelancers/~your-upwork"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-%236FD44C?style=flat-square&logo=upwork&logoColor=white" /></a>  
+  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" /></a>  
+  <a href="https://github.com/sadhinvr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white" /></a>  
+</p>  
 
-
+---
