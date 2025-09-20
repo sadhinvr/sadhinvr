@@ -45,9 +45,11 @@ Based in Bangladesh, I love turning ideas into reality with code.
 
 ## 📫 Contact  
 <p align="center">  
-  <a href="https://www.linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.upwork.com/freelancers/~your-upwork"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-%236FD44C?style=flat-square&logo=upwork&logoColor=white" /></a>  
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/sadhinvr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.upwork.com/freelancers/~your-upwork](https://www.upwork.com/freelancers/~01662183e029e40c94?mp_source=share">
+    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-%236FD44C?style=flat-square&logo=upwork&logoColor=white" />
+  </a>  
+  <a href="mailto:sadhinvr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" /></a>  
   <a href="https://github.com/sadhinvr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white" /></a>  
 </p>  
 
